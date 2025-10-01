@@ -1,35 +1,35 @@
 
-**Matricule : 24F2868**  
-**NOM: YEPMO WANMEGNI DAREL CEDRIK**
+# Cahier de suivi - YEPMO WANMEGNI DAREL CEDRIK  
+**Matricule : 24G2460**  
 
 ---
-## Séance 2 - mise en place du programme d ajout en tete et en queu dans une liste chainée circulaire et organisation du travail  
+
+## Séance 2 - Ajout en tête dans une liste doublement chaînée et tests des opérations de base  
 
 ### Travail effectué :  
-- **Organisation du projet** :  
-  - Structuration du repository pour une meilleure lisibilité du code et des fichiers  
-  - Création d’un dossier `doc/` pour centraliser la documentation technique et les comptes-rendus  
 - **Développement algorithmique** :  
-  - **Branche `insertion_liste_doublement_chaine_circulaire`** :  
-    - Début de l’implémentation de la structure de données "liste chaînée circulaire"  
-    - Étude des opérations de base (insertion en tete,insertion en queu,creation d une liste,affichage)  
-    - Premiers tests sur de petits cas simples  
+  - **Branche `insertion_liste_doublement_chainee`** :  
+    - Implémentation de la structure de données "liste doublement chaînée"  
+    - Mise en place de l’opération **ajout en tête**  
+    - Étude des autres opérations de base (insertion en queue, création d’une liste, affichage)  
+    - Réalisation de premiers tests pour valider le bon fonctionnement  
 
 ### Difficultés rencontrées :  
-- Prise en main de la logique particulière des **listes chaînées circulaires**  
-- Organisation des fichiers de documentation avec Git pour éviter les conflits  
+- Prise en main de la logique particulière des **listes doublement chaînées**  
+- Gestion correcte des pointeurs lors de l’insertion en tête  
 
 ### Solutions apportées :  
-- Mise en place d’une **nomenclature claire** pour les fichiers de documentation  
-- Étude et application d’exemples simples de listes circulaires avant une généralisation  
+- Étude et application d’exemples simples de listes doublement chaînées avant la généralisation  
+- Vérification étape par étape avec des cas de test progressifs  
 
 ### Prochaines tâches :  
-- Finaliser les opérations d’insertion et afficahge sur la **liste chaînée circulaire**  
-- Ajouter des tests unitaires pour valider le bon fonctionnement  
-- Compléter la documentation dans le dossier `doc/`  
+- Finaliser les opérations d’insertion en queue et d’affichage  
+- Ajouter des tests unitaires pour couvrir tous les cas possibles  
+- Améliorer la documentation dans le dossier `doc/`  
 
 ### Objectifs atteints :  
-- ✅ Repository mieux organisé  
-- ✅ Création du dossier `doc/`  
-- ✅ Début de développement sur la branche **`insertion_liste_doublement_chaine_circulaire`**  jusqua implementation
+- ✅ Mise en place de la **branche `insertion_liste_doublement_chainee`**  
+- ✅ Implémentation réussie de l’opération **ajout en tête**  
+- ✅ Tests concluants sur des cas simples  
+- ✅ Ce projet a permis de consolider mes acquis en algorithmique et structures de données  
 
