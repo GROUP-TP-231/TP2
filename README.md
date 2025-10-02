@@ -20,7 +20,7 @@ Les codes sont sauvegardés dans leurs branches respectives.
 
 ### Membres et branches :
 - NDZESSA EMMANUEL FREDY :liste_chaine_circulaire
-- BILOA NGUEMA ALPHONSE KHAREL: Insert_head_tail_tail_double_circular_chained_list
+- BILOA NGUEMA ALPHONSE KHAREL: Insertion_head_tail_double_circular_chained_list
 - YEPMO WANMEGNI DAREL CEDRICK: insertion_liste_doublement_chainee_trie
 - NKWELLE NGADE ULRICH MIGUEL : insertion_liste_chainee
 - TANKEU TSAFACK ALVARO YVO: supprimer_occurences
