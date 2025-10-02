@@ -28,7 +28,7 @@ Les codes sont sauvegardés dans leurs branches respectives.
 ## Installation et compilation
 ```bash
 # Cloner le dépôt
-git clone https://github.com/GROUP-TP-231/TP1.git
+git clone https://github.com/GROUP-TP-231/TP2.git
 
 # Accéder à une branche spécifique
 git checkout nom-branche
